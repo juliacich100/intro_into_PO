@@ -1,7 +1,4 @@
 from selene.support.shared import browser
-from selene import have, be, command
-import os
-import tests
 from model.pages import practice_form_helpers
 
 
